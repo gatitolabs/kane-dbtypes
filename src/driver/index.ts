@@ -1,3 +1,6 @@
+/**
+ * Usuaria Taxista
+ */
 export interface Driver {
   id: string;
   email: string;
@@ -17,14 +20,22 @@ export type DriverAccountStatus =
   | 'denied'
   | 'onTrip';
 
+/**
+ * Status de la usuaria taxista
+ */
 export interface DriverStatus {
   id: string;
   created: number;
   updated: number;
+  /** {@link DriverAccountStatus} */
   driverAccountStatus: DriverAccountStatus;
   currentTripId: string;
 }
 
+/**
+ * Documentos de una usuaria taxista. Su id sera el mismo
+ * id generado por el modulo de Autenticacion de Firebase
+ */
 export interface DriverDocuments {
   created: number;
   idUrl: string;

@@ -1,3 +1,6 @@
+/**
+ * Opciones de configuracion del sistema
+ */
 export interface OrganizationSetting {
   name: string;
   phone: string;

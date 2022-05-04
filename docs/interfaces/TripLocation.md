@@ -1,0 +1,56 @@
+[kane-dbtypes](../README.md) / [Exports](../modules.md) / TripLocation
+
+# Interface: TripLocation
+
+Representa una ubicacion en un viaje.
+Va empotrada en un [Trip](Trip.md) y no
+tiene su propia coleccion
+
+## Table of contents
+
+### Properties
+
+- [date](TripLocation.md#date)
+- [fullAddress](TripLocation.md#fulladdress)
+- [latitude](TripLocation.md#latitude)
+- [longitude](TripLocation.md#longitude)
+
+## Properties
+
+### date
+
+• **date**: `number`
+
+#### Defined in
+
+src/trip/index.ts:9
+
+___
+
+### fullAddress
+
+• **fullAddress**: `string`
+
+#### Defined in
+
+src/trip/index.ts:12
+
+___
+
+### latitude
+
+• **latitude**: `number`
+
+#### Defined in
+
+src/trip/index.ts:11
+
+___
+
+### longitude
+
+• **longitude**: `number`
+
+#### Defined in
+
+src/trip/index.ts:10

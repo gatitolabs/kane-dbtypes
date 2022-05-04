@@ -1,0 +1,54 @@
+[kane-dbtypes](../README.md) / [Exports](../modules.md) / OrganizationSetting
+
+# Interface: OrganizationSetting
+
+Opciones de configuracion del sistema
+
+## Table of contents
+
+### Properties
+
+- [cost1stkm](OrganizationSetting.md#cost1stkm)
+- [cost2ndkm](OrganizationSetting.md#cost2ndkm)
+- [name](OrganizationSetting.md#name)
+- [phone](OrganizationSetting.md#phone)
+
+## Properties
+
+### cost1stkm
+
+• **cost1stkm**: `number`
+
+#### Defined in
+
+src/other/organization-setting.ts:7
+
+___
+
+### cost2ndkm
+
+• **cost2ndkm**: `number`
+
+#### Defined in
+
+src/other/organization-setting.ts:8
+
+___
+
+### name
+
+• **name**: `string`
+
+#### Defined in
+
+src/other/organization-setting.ts:5
+
+___
+
+### phone
+
+• **phone**: `string`
+
+#### Defined in
+
+src/other/organization-setting.ts:6

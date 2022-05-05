@@ -34,7 +34,8 @@ export interface DriverStatus {
 
 /**
  * Documentos de una usuaria taxista. Su id sera el mismo
- * id generado por el modulo de Autenticacion de Firebase
+ * id generado por el modulo de Autenticacion de Firebase usado
+ * en {@link Driver}
  */
 export interface DriverDocuments {
   created: number;

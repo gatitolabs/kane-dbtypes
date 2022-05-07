@@ -6,7 +6,7 @@
 
 ### Enumeration members
 
-- [administrator](FirestoreCollections.md#administrator)
+- [administrators](FirestoreCollections.md#administrators)
 - [customers](FirestoreCollections.md#customers)
 - [driverAlerts](FirestoreCollections.md#driveralerts)
 - [driverDocuments](FirestoreCollections.md#driverdocuments)
@@ -20,9 +20,9 @@
 
 ## Enumeration members
 
-### administrator
+### administrators
 
-• **administrator** = `"administrators"`
+• **administrators** = `"administrators"`
 
 Coleccion de [Administrator](../interfaces/Administrator.md)
 

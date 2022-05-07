@@ -7,7 +7,7 @@ export { Review } from './src/other/review';
 export { Trip, TripLocation } from './src/trip';
 export declare enum FirestoreCollections {
     /** Coleccion de {@link Administrator} */
-    administrator = "administrators",
+    administrators = "administrators",
     /** Coleccion de {@link Customer} */
     customers = "customers",
     /** Coleccion de {@link Driver} */

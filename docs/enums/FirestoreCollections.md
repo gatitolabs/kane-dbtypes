@@ -10,6 +10,7 @@
 - [customers](FirestoreCollections.md#customers)
 - [driverAlerts](FirestoreCollections.md#driveralerts)
 - [driverDocuments](FirestoreCollections.md#driverdocuments)
+- [driverDocumentsStatus](FirestoreCollections.md#driverdocumentsstatus)
 - [driverStatus](FirestoreCollections.md#driverstatus)
 - [drivers](FirestoreCollections.md#drivers)
 - [favoriteLocations](FirestoreCollections.md#favoritelocations)
@@ -28,7 +29,7 @@ Coleccion de [Administrator](../interfaces/Administrator.md)
 
 #### Defined in
 
-index.ts:16
+[index.ts:15](https://github.com/gatitolabs/kane-dbtypes/blob/e33ffb5/index.ts#L15)
 
 ___
 
@@ -40,7 +41,7 @@ Coleccion de [Customer](../interfaces/Customer.md)
 
 #### Defined in
 
-index.ts:19
+[index.ts:18](https://github.com/gatitolabs/kane-dbtypes/blob/e33ffb5/index.ts#L18)
 
 ___
 
@@ -52,7 +53,7 @@ Coleccion de [DriverAlert](../interfaces/DriverAlert.md)
 
 #### Defined in
 
-index.ts:25
+[index.ts:24](https://github.com/gatitolabs/kane-dbtypes/blob/e33ffb5/index.ts#L24)
 
 ___
 
@@ -64,7 +65,19 @@ Coleccion de [DriverDocuments](../interfaces/DriverDocuments.md)
 
 #### Defined in
 
-index.ts:28
+[index.ts:27](https://github.com/gatitolabs/kane-dbtypes/blob/e33ffb5/index.ts#L27)
+
+___
+
+### driverDocumentsStatus
+
+• **driverDocumentsStatus** = `"driverDocumentsStatus"`
+
+Coleccion de [DriverDocumentsStatus](../interfaces/DriverDocumentsStatus.md)
+
+#### Defined in
+
+[index.ts:30](https://github.com/gatitolabs/kane-dbtypes/blob/e33ffb5/index.ts#L30)
 
 ___
 
@@ -76,7 +89,7 @@ Coleccion de [DriverStatus](../interfaces/DriverStatus.md)
 
 #### Defined in
 
-index.ts:31
+[index.ts:33](https://github.com/gatitolabs/kane-dbtypes/blob/e33ffb5/index.ts#L33)
 
 ___
 
@@ -88,7 +101,7 @@ Coleccion de [Driver](../interfaces/Driver.md)
 
 #### Defined in
 
-index.ts:22
+[index.ts:21](https://github.com/gatitolabs/kane-dbtypes/blob/e33ffb5/index.ts#L21)
 
 ___
 
@@ -100,7 +113,7 @@ Coleccion de [FavoriteLocation](../interfaces/FavoriteLocation.md)
 
 #### Defined in
 
-index.ts:34
+[index.ts:36](https://github.com/gatitolabs/kane-dbtypes/blob/e33ffb5/index.ts#L36)
 
 ___
 
@@ -112,7 +125,7 @@ Coleccion de [OrganizationSetting](../interfaces/OrganizationSetting.md)
 
 #### Defined in
 
-index.ts:37
+[index.ts:39](https://github.com/gatitolabs/kane-dbtypes/blob/e33ffb5/index.ts#L39)
 
 ___
 
@@ -124,7 +137,7 @@ Coleccion de [PanicModeAlert](../interfaces/PanicModeAlert.md)
 
 #### Defined in
 
-index.ts:40
+[index.ts:42](https://github.com/gatitolabs/kane-dbtypes/blob/e33ffb5/index.ts#L42)
 
 ___
 
@@ -136,7 +149,7 @@ Coleccion de [Review](../interfaces/Review.md)
 
 #### Defined in
 
-index.ts:46
+[index.ts:48](https://github.com/gatitolabs/kane-dbtypes/blob/e33ffb5/index.ts#L48)
 
 ___
 
@@ -148,4 +161,4 @@ Coleccion de [Trip](../interfaces/Trip.md)
 
 #### Defined in
 
-index.ts:43
+[index.ts:45](https://github.com/gatitolabs/kane-dbtypes/blob/e33ffb5/index.ts#L45)

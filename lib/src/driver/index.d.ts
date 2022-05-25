@@ -49,3 +49,23 @@ export interface DriverDocuments {
     carRightViewUrl: string;
     carBackViewUrl: string;
 }
+/**
+ * Estado de aprobación de los documentos de una usuaria taxista.
+ * True para aprobados, false para rechazados.
+ * Los campos de las fechas expiradas no necesitan guardarse, puesto que pueden ser deducidas comparando fechas.
+ * en {@link Driver}
+ */
+export interface DriverDocumentsStatus {
+    id: boolean;
+    insurance: boolean;
+    property: boolean;
+    license: boolean;
+    plate: boolean;
+    criminalRecord: boolean;
+    RTV: boolean;
+    carPermit: boolean;
+    carFrontView: boolean;
+    carLeftView: boolean;
+    carRightView: boolean;
+    carBackView: boolean;
+}

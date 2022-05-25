@@ -23,7 +23,7 @@ tiene su propia coleccion
 
 #### Defined in
 
-src/trip/index.ts:9
+[src/trip/index.ts:9](https://github.com/gatitolabs/kane-dbtypes/blob/e33ffb5/src/trip/index.ts#L9)
 
 ___
 
@@ -33,7 +33,7 @@ ___
 
 #### Defined in
 
-src/trip/index.ts:12
+[src/trip/index.ts:12](https://github.com/gatitolabs/kane-dbtypes/blob/e33ffb5/src/trip/index.ts#L12)
 
 ___
 
@@ -43,7 +43,7 @@ ___
 
 #### Defined in
 
-src/trip/index.ts:11
+[src/trip/index.ts:11](https://github.com/gatitolabs/kane-dbtypes/blob/e33ffb5/src/trip/index.ts#L11)
 
 ___
 
@@ -53,4 +53,4 @@ ___
 
 #### Defined in
 
-src/trip/index.ts:10
+[src/trip/index.ts:10](https://github.com/gatitolabs/kane-dbtypes/blob/e33ffb5/src/trip/index.ts#L10)

@@ -22,7 +22,7 @@ Status de la usuaria taxista
 
 #### Defined in
 
-src/driver/index.ts:28
+[src/driver/index.ts:28](https://github.com/gatitolabs/kane-dbtypes/blob/e33ffb5/src/driver/index.ts#L28)
 
 ___
 
@@ -32,7 +32,7 @@ ___
 
 #### Defined in
 
-src/driver/index.ts:32
+[src/driver/index.ts:32](https://github.com/gatitolabs/kane-dbtypes/blob/e33ffb5/src/driver/index.ts#L32)
 
 ___
 
@@ -44,7 +44,7 @@ ___
 
 #### Defined in
 
-src/driver/index.ts:31
+[src/driver/index.ts:31](https://github.com/gatitolabs/kane-dbtypes/blob/e33ffb5/src/driver/index.ts#L31)
 
 ___
 
@@ -54,7 +54,7 @@ ___
 
 #### Defined in
 
-src/driver/index.ts:27
+[src/driver/index.ts:27](https://github.com/gatitolabs/kane-dbtypes/blob/e33ffb5/src/driver/index.ts#L27)
 
 ___
 
@@ -64,4 +64,4 @@ ___
 
 #### Defined in
 
-src/driver/index.ts:29
+[src/driver/index.ts:29](https://github.com/gatitolabs/kane-dbtypes/blob/e33ffb5/src/driver/index.ts#L29)

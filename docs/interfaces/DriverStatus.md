@@ -9,6 +9,7 @@ Status de la usuaria taxista
 ### Properties
 
 - [created](DriverStatus.md#created)
+- [currentLocation](DriverStatus.md#currentlocation)
 - [currentTripId](DriverStatus.md#currenttripid)
 - [driverAccountStatus](DriverStatus.md#driveraccountstatus)
 - [id](DriverStatus.md#id)
@@ -22,7 +23,17 @@ Status de la usuaria taxista
 
 #### Defined in
 
-[src/driver/index.ts:28](https://github.com/gatitolabs/kane-dbtypes/blob/e33ffb5/src/driver/index.ts#L28)
+[src/driver/index.ts:39](https://github.com/gatitolabs/kane-dbtypes/blob/2779253/src/driver/index.ts#L39)
+
+___
+
+### currentLocation
+
+• **currentLocation**: [`DriverLocation`](DriverLocation.md)
+
+#### Defined in
+
+[src/driver/index.ts:44](https://github.com/gatitolabs/kane-dbtypes/blob/2779253/src/driver/index.ts#L44)
 
 ___
 
@@ -32,7 +43,7 @@ ___
 
 #### Defined in
 
-[src/driver/index.ts:32](https://github.com/gatitolabs/kane-dbtypes/blob/e33ffb5/src/driver/index.ts#L32)
+[src/driver/index.ts:43](https://github.com/gatitolabs/kane-dbtypes/blob/2779253/src/driver/index.ts#L43)
 
 ___
 
@@ -44,7 +55,7 @@ ___
 
 #### Defined in
 
-[src/driver/index.ts:31](https://github.com/gatitolabs/kane-dbtypes/blob/e33ffb5/src/driver/index.ts#L31)
+[src/driver/index.ts:42](https://github.com/gatitolabs/kane-dbtypes/blob/2779253/src/driver/index.ts#L42)
 
 ___
 
@@ -54,7 +65,7 @@ ___
 
 #### Defined in
 
-[src/driver/index.ts:27](https://github.com/gatitolabs/kane-dbtypes/blob/e33ffb5/src/driver/index.ts#L27)
+[src/driver/index.ts:38](https://github.com/gatitolabs/kane-dbtypes/blob/2779253/src/driver/index.ts#L38)
 
 ___
 
@@ -64,4 +75,4 @@ ___
 
 #### Defined in
 
-[src/driver/index.ts:29](https://github.com/gatitolabs/kane-dbtypes/blob/e33ffb5/src/driver/index.ts#L29)
+[src/driver/index.ts:40](https://github.com/gatitolabs/kane-dbtypes/blob/2779253/src/driver/index.ts#L40)

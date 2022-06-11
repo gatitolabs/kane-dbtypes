@@ -11,7 +11,16 @@ export interface Driver {
     ratingAvg: number;
     plate: string;
 }
-export declare type DriverAccountStatus = 'pending' | 'available' | 'unavailable' | 'expiredDocs' | 'denied' | 'onTrip';
+/**
+ * Interfaz para obtener la última localización por GPS de la taxista
+ * al igual que la fecha donde se actualizó, usando coordenadas.
+ */
+export interface DriverLocation {
+    longitude: number;
+    latitude: number;
+    updated: number;
+}
+export declare type DriverAccountStatus = 'pending' | 'available' | 'unavailable' | 'expiredDocs' | 'denied' | 'onCustomerPickup' | 'onTrip';
 /**
  * Status de la usuaria taxista
  */
@@ -22,6 +31,7 @@ export interface DriverStatus {
     /** {@link DriverAccountStatus} */
     driverAccountStatus: DriverAccountStatus;
     currentTripId: string;
+    currentLocation: DriverLocation;
 }
 /**
  * Documentos de una usuaria taxista. Su id sera el mismo
@@ -59,7 +69,7 @@ export interface DriverDocumentsStatus {
     id: boolean;
     insurance: boolean;
     property: boolean;
-    license: boolean;
+    license: string;
     plate: boolean;
     criminalRecord: boolean;
     RTV: boolean;

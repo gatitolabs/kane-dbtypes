@@ -12,14 +12,25 @@ export interface Driver {
   plate: string;
 }
 
+/**
+ * Interfaz para obtener la última localización por GPS de la taxista 
+ * al igual que la fecha donde se actualizó, usando coordenadas.
+ */
+export interface DriverLocation {
+  longitude: number;
+  latitude: number;
+  updated: number;
+}
+
 export type DriverAccountStatus =
   | 'pending'
   | 'available'
   | 'unavailable'
   | 'expiredDocs'
   | 'denied'
+  | 'onCustomerPickup'
   | 'onTrip';
-
+  
 /**
  * Status de la usuaria taxista
  */
@@ -30,6 +41,7 @@ export interface DriverStatus {
   /** {@link DriverAccountStatus} */
   driverAccountStatus: DriverAccountStatus;
   currentTripId: string;
+  currentLocation: DriverLocation;
 }
 
 /**

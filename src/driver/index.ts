@@ -12,12 +12,23 @@ export interface Driver {
   plate: string;
 }
 
+/**
+ * Interfaz para obtener la última localización por GPS de la taxista
+ * al igual que la fecha donde se actualizó, usando coordenadas.
+ */
+export interface DriverLocation {
+  longitude: number;
+  latitude: number;
+  updated: number;
+}
+
 export type DriverAccountStatus =
   | 'pending'
   | 'available'
   | 'unavailable'
   | 'expiredDocs'
   | 'denied'
+  | 'onCustomerPickup'
   | 'onTrip';
 
 /**
@@ -30,6 +41,7 @@ export interface DriverStatus {
   /** {@link DriverAccountStatus} */
   driverAccountStatus: DriverAccountStatus;
   currentTripId: string;
+  currentLocation: DriverLocation;
 }
 
 /**
@@ -60,16 +72,16 @@ export interface DriverDocuments {
 }
 
 /**
- * Estado de aprobación de los documentos de una usuaria taxista. 
+ * Estado de aprobación de los documentos de una usuaria taxista.
  * True para aprobados, false para rechazados.
  * Los campos de las fechas expiradas no necesitan guardarse, puesto que pueden ser deducidas comparando fechas.
  * en {@link Driver}
  */
- export interface DriverDocumentsStatus {
-  id: boolean; 
-  insurance: boolean; 
+export interface DriverDocumentsStatus {
+  id: boolean;
+  insurance: boolean;
   property: boolean;
-  license: string;
+  license: boolean;
   plate: boolean;
   criminalRecord: boolean;
   RTV: boolean;

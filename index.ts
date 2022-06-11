@@ -4,7 +4,7 @@
 
 export {Administrator, DriverAlert, PanicModeAlert} from './src/admin';
 export {Customer, FavoriteLocation} from './src/customer';
-export {Driver, DriverAccountStatus, DriverDocuments, DriverDocumentsStatus, DriverStatus} from './src/driver';
+export {Driver, DriverLocation, DriverAccountStatus, DriverDocuments, DriverDocumentsStatus, DriverStatus} from './src/driver';
 export {AlertType, AuthorType, PaymentMethod, UserStatus} from './src/other/enums';
 export {OrganizationSetting} from './src/other/organization-setting';
 export {Review} from './src/other/review';
@@ -19,6 +19,9 @@ export enum FirestoreCollections {
 
   /** Coleccion de {@link Driver} */
   drivers = 'drivers',
+
+  /** Coleccion de {@link DriverLocation} */
+  driverLocation = 'driverLocation',
 
   /** Coleccion de {@link DriverAlert} */
   driverAlerts = 'driverAlerts',

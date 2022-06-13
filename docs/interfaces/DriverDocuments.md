@@ -38,7 +38,7 @@ en [Driver](Driver.md)
 
 #### Defined in
 
-[src/driver/index.ts:71](https://github.com/gatitolabs/kane-dbtypes/blob/2779253/src/driver/index.ts#L71)
+[src/driver/index.ts:71](https://github.com/gatitolabs/kane-dbtypes/blob/1664218/src/driver/index.ts#L71)
 
 ___
 
@@ -48,7 +48,7 @@ ___
 
 #### Defined in
 
-[src/driver/index.ts:68](https://github.com/gatitolabs/kane-dbtypes/blob/2779253/src/driver/index.ts#L68)
+[src/driver/index.ts:68](https://github.com/gatitolabs/kane-dbtypes/blob/1664218/src/driver/index.ts#L68)
 
 ___
 
@@ -58,7 +58,7 @@ ___
 
 #### Defined in
 
-[src/driver/index.ts:69](https://github.com/gatitolabs/kane-dbtypes/blob/2779253/src/driver/index.ts#L69)
+[src/driver/index.ts:69](https://github.com/gatitolabs/kane-dbtypes/blob/1664218/src/driver/index.ts#L69)
 
 ___
 
@@ -68,7 +68,7 @@ ___
 
 #### Defined in
 
-[src/driver/index.ts:66](https://github.com/gatitolabs/kane-dbtypes/blob/2779253/src/driver/index.ts#L66)
+[src/driver/index.ts:66](https://github.com/gatitolabs/kane-dbtypes/blob/1664218/src/driver/index.ts#L66)
 
 ___
 
@@ -78,7 +78,7 @@ ___
 
 #### Defined in
 
-[src/driver/index.ts:65](https://github.com/gatitolabs/kane-dbtypes/blob/2779253/src/driver/index.ts#L65)
+[src/driver/index.ts:65](https://github.com/gatitolabs/kane-dbtypes/blob/1664218/src/driver/index.ts#L65)
 
 ___
 
@@ -88,7 +88,7 @@ ___
 
 #### Defined in
 
-[src/driver/index.ts:70](https://github.com/gatitolabs/kane-dbtypes/blob/2779253/src/driver/index.ts#L70)
+[src/driver/index.ts:70](https://github.com/gatitolabs/kane-dbtypes/blob/1664218/src/driver/index.ts#L70)
 
 ___
 
@@ -98,7 +98,7 @@ ___
 
 #### Defined in
 
-[src/driver/index.ts:53](https://github.com/gatitolabs/kane-dbtypes/blob/2779253/src/driver/index.ts#L53)
+[src/driver/index.ts:53](https://github.com/gatitolabs/kane-dbtypes/blob/1664218/src/driver/index.ts#L53)
 
 ___
 
@@ -108,7 +108,7 @@ ___
 
 #### Defined in
 
-[src/driver/index.ts:67](https://github.com/gatitolabs/kane-dbtypes/blob/2779253/src/driver/index.ts#L67)
+[src/driver/index.ts:67](https://github.com/gatitolabs/kane-dbtypes/blob/1664218/src/driver/index.ts#L67)
 
 ___
 
@@ -118,7 +118,7 @@ ___
 
 #### Defined in
 
-[src/driver/index.ts:55](https://github.com/gatitolabs/kane-dbtypes/blob/2779253/src/driver/index.ts#L55)
+[src/driver/index.ts:55](https://github.com/gatitolabs/kane-dbtypes/blob/1664218/src/driver/index.ts#L55)
 
 ___
 
@@ -128,7 +128,7 @@ ___
 
 #### Defined in
 
-[src/driver/index.ts:54](https://github.com/gatitolabs/kane-dbtypes/blob/2779253/src/driver/index.ts#L54)
+[src/driver/index.ts:54](https://github.com/gatitolabs/kane-dbtypes/blob/1664218/src/driver/index.ts#L54)
 
 ___
 
@@ -138,7 +138,7 @@ ___
 
 #### Defined in
 
-[src/driver/index.ts:60](https://github.com/gatitolabs/kane-dbtypes/blob/2779253/src/driver/index.ts#L60)
+[src/driver/index.ts:60](https://github.com/gatitolabs/kane-dbtypes/blob/1664218/src/driver/index.ts#L60)
 
 ___
 
@@ -148,7 +148,7 @@ ___
 
 #### Defined in
 
-[src/driver/index.ts:59](https://github.com/gatitolabs/kane-dbtypes/blob/2779253/src/driver/index.ts#L59)
+[src/driver/index.ts:59](https://github.com/gatitolabs/kane-dbtypes/blob/1664218/src/driver/index.ts#L59)
 
 ___
 
@@ -158,7 +158,7 @@ ___
 
 #### Defined in
 
-[src/driver/index.ts:56](https://github.com/gatitolabs/kane-dbtypes/blob/2779253/src/driver/index.ts#L56)
+[src/driver/index.ts:56](https://github.com/gatitolabs/kane-dbtypes/blob/1664218/src/driver/index.ts#L56)
 
 ___
 
@@ -168,7 +168,7 @@ ___
 
 #### Defined in
 
-[src/driver/index.ts:58](https://github.com/gatitolabs/kane-dbtypes/blob/2779253/src/driver/index.ts#L58)
+[src/driver/index.ts:58](https://github.com/gatitolabs/kane-dbtypes/blob/1664218/src/driver/index.ts#L58)
 
 ___
 
@@ -178,7 +178,7 @@ ___
 
 #### Defined in
 
-[src/driver/index.ts:57](https://github.com/gatitolabs/kane-dbtypes/blob/2779253/src/driver/index.ts#L57)
+[src/driver/index.ts:57](https://github.com/gatitolabs/kane-dbtypes/blob/1664218/src/driver/index.ts#L57)
 
 ___
 
@@ -188,7 +188,7 @@ ___
 
 #### Defined in
 
-[src/driver/index.ts:64](https://github.com/gatitolabs/kane-dbtypes/blob/2779253/src/driver/index.ts#L64)
+[src/driver/index.ts:64](https://github.com/gatitolabs/kane-dbtypes/blob/1664218/src/driver/index.ts#L64)
 
 ___
 
@@ -198,7 +198,7 @@ ___
 
 #### Defined in
 
-[src/driver/index.ts:63](https://github.com/gatitolabs/kane-dbtypes/blob/2779253/src/driver/index.ts#L63)
+[src/driver/index.ts:63](https://github.com/gatitolabs/kane-dbtypes/blob/1664218/src/driver/index.ts#L63)
 
 ___
 
@@ -208,7 +208,7 @@ ___
 
 #### Defined in
 
-[src/driver/index.ts:62](https://github.com/gatitolabs/kane-dbtypes/blob/2779253/src/driver/index.ts#L62)
+[src/driver/index.ts:62](https://github.com/gatitolabs/kane-dbtypes/blob/1664218/src/driver/index.ts#L62)
 
 ___
 
@@ -218,4 +218,4 @@ ___
 
 #### Defined in
 
-[src/driver/index.ts:61](https://github.com/gatitolabs/kane-dbtypes/blob/2779253/src/driver/index.ts#L61)
+[src/driver/index.ts:61](https://github.com/gatitolabs/kane-dbtypes/blob/1664218/src/driver/index.ts#L61)

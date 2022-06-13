@@ -21,7 +21,7 @@ al igual que la fecha donde se actualizó, usando coordenadas.
 
 #### Defined in
 
-[src/driver/index.ts:21](https://github.com/gatitolabs/kane-dbtypes/blob/2779253/src/driver/index.ts#L21)
+[src/driver/index.ts:21](https://github.com/gatitolabs/kane-dbtypes/blob/1664218/src/driver/index.ts#L21)
 
 ___
 
@@ -31,7 +31,7 @@ ___
 
 #### Defined in
 
-[src/driver/index.ts:20](https://github.com/gatitolabs/kane-dbtypes/blob/2779253/src/driver/index.ts#L20)
+[src/driver/index.ts:20](https://github.com/gatitolabs/kane-dbtypes/blob/1664218/src/driver/index.ts#L20)
 
 ___
 
@@ -41,4 +41,4 @@ ___
 
 #### Defined in
 
-[src/driver/index.ts:22](https://github.com/gatitolabs/kane-dbtypes/blob/2779253/src/driver/index.ts#L22)
+[src/driver/index.ts:22](https://github.com/gatitolabs/kane-dbtypes/blob/1664218/src/driver/index.ts#L22)

@@ -69,7 +69,7 @@ export interface DriverDocumentsStatus {
     id: boolean;
     insurance: boolean;
     property: boolean;
-    license: string;
+    license: boolean;
     plate: boolean;
     criminalRecord: boolean;
     RTV: boolean;

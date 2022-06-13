@@ -22,7 +22,7 @@ Alertas de taxistas, SIN modo panico
 
 #### Defined in
 
-[src/admin/index.ts:20](https://github.com/gatitolabs/kane-dbtypes/blob/2779253/src/admin/index.ts#L20)
+[src/admin/index.ts:20](https://github.com/gatitolabs/kane-dbtypes/blob/1664218/src/admin/index.ts#L20)
 
 ___
 
@@ -32,7 +32,7 @@ ___
 
 #### Defined in
 
-[src/admin/index.ts:19](https://github.com/gatitolabs/kane-dbtypes/blob/2779253/src/admin/index.ts#L19)
+[src/admin/index.ts:19](https://github.com/gatitolabs/kane-dbtypes/blob/1664218/src/admin/index.ts#L19)
 
 ___
 
@@ -42,7 +42,7 @@ ___
 
 #### Defined in
 
-[src/admin/index.ts:21](https://github.com/gatitolabs/kane-dbtypes/blob/2779253/src/admin/index.ts#L21)
+[src/admin/index.ts:21](https://github.com/gatitolabs/kane-dbtypes/blob/1664218/src/admin/index.ts#L21)
 
 ___
 
@@ -54,7 +54,7 @@ ___
 
 #### Defined in
 
-[src/admin/index.ts:17](https://github.com/gatitolabs/kane-dbtypes/blob/2779253/src/admin/index.ts#L17)
+[src/admin/index.ts:17](https://github.com/gatitolabs/kane-dbtypes/blob/1664218/src/admin/index.ts#L17)
 
 ___
 
@@ -64,4 +64,4 @@ ___
 
 #### Defined in
 
-[src/admin/index.ts:18](https://github.com/gatitolabs/kane-dbtypes/blob/2779253/src/admin/index.ts#L18)
+[src/admin/index.ts:18](https://github.com/gatitolabs/kane-dbtypes/blob/1664218/src/admin/index.ts#L18)

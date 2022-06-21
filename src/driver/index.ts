@@ -1,3 +1,5 @@
+import { Trip } from "../trip";
+
 /**
  * Usuaria Taxista
  */
@@ -42,6 +44,7 @@ export interface DriverStatus {
   driverAccountStatus: DriverAccountStatus;
   currentTripId: string;
   currentLocation: DriverLocation;
+  lastTrip?: Trip;
 }
 
 /**

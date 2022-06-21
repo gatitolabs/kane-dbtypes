@@ -1,3 +1,4 @@
+import { Trip } from "../trip";
 /**
  * Usuaria Taxista
  */
@@ -32,6 +33,7 @@ export interface DriverStatus {
     driverAccountStatus: DriverAccountStatus;
     currentTripId: string;
     currentLocation: DriverLocation;
+    lastTrip?: Trip;
 }
 /**
  * Documentos de una usuaria taxista. Su id sera el mismo

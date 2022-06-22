@@ -1,6 +1,6 @@
 {
   "name": "kane-dbtypes",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "description": "Proyecto KANE: Documentos NoSQL para Firestore",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",

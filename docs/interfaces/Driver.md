@@ -25,7 +25,7 @@ Usuaria Taxista
 
 #### Defined in
 
-[src/driver/index.ts:8](https://github.com/gatitolabs/kane-dbtypes/blob/0866c8c/src/driver/index.ts#L8)
+[src/driver/index.ts:8](https://github.com/gatitolabs/kane-dbtypes/blob/73714e6/src/driver/index.ts#L8)
 
 ___
 
@@ -35,7 +35,7 @@ ___
 
 #### Defined in
 
-[src/driver/index.ts:9](https://github.com/gatitolabs/kane-dbtypes/blob/0866c8c/src/driver/index.ts#L9)
+[src/driver/index.ts:9](https://github.com/gatitolabs/kane-dbtypes/blob/73714e6/src/driver/index.ts#L9)
 
 ___
 
@@ -45,7 +45,7 @@ ___
 
 #### Defined in
 
-[src/driver/index.ts:7](https://github.com/gatitolabs/kane-dbtypes/blob/0866c8c/src/driver/index.ts#L7)
+[src/driver/index.ts:7](https://github.com/gatitolabs/kane-dbtypes/blob/73714e6/src/driver/index.ts#L7)
 
 ___
 
@@ -55,7 +55,7 @@ ___
 
 #### Defined in
 
-[src/driver/index.ts:10](https://github.com/gatitolabs/kane-dbtypes/blob/0866c8c/src/driver/index.ts#L10)
+[src/driver/index.ts:10](https://github.com/gatitolabs/kane-dbtypes/blob/73714e6/src/driver/index.ts#L10)
 
 ___
 
@@ -65,7 +65,7 @@ ___
 
 #### Defined in
 
-[src/driver/index.ts:11](https://github.com/gatitolabs/kane-dbtypes/blob/0866c8c/src/driver/index.ts#L11)
+[src/driver/index.ts:11](https://github.com/gatitolabs/kane-dbtypes/blob/73714e6/src/driver/index.ts#L11)
 
 ___
 
@@ -75,7 +75,7 @@ ___
 
 #### Defined in
 
-[src/driver/index.ts:12](https://github.com/gatitolabs/kane-dbtypes/blob/0866c8c/src/driver/index.ts#L12)
+[src/driver/index.ts:12](https://github.com/gatitolabs/kane-dbtypes/blob/73714e6/src/driver/index.ts#L12)
 
 ___
 
@@ -85,7 +85,7 @@ ___
 
 #### Defined in
 
-[src/driver/index.ts:14](https://github.com/gatitolabs/kane-dbtypes/blob/0866c8c/src/driver/index.ts#L14)
+[src/driver/index.ts:14](https://github.com/gatitolabs/kane-dbtypes/blob/73714e6/src/driver/index.ts#L14)
 
 ___
 
@@ -95,4 +95,4 @@ ___
 
 #### Defined in
 
-[src/driver/index.ts:13](https://github.com/gatitolabs/kane-dbtypes/blob/0866c8c/src/driver/index.ts#L13)
+[src/driver/index.ts:13](https://github.com/gatitolabs/kane-dbtypes/blob/73714e6/src/driver/index.ts#L13)

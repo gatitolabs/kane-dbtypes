@@ -1,4 +1,4 @@
-import { Trip } from "../trip";
+import {Trip} from '../trip';
 
 /**
  * Usuaria Taxista
@@ -81,6 +81,7 @@ export interface DriverDocuments {
  * en {@link Driver}
  */
 export interface DriverDocumentsStatus {
+  documentsAboutToExpire: boolean;
   id: boolean;
   insurance: boolean;
   property: boolean;

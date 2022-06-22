@@ -41,7 +41,7 @@
 
 #### Defined in
 
-[src/other/enums.ts:1](https://github.com/gatitolabs/kane-dbtypes/blob/0866c8c/src/other/enums.ts#L1)
+[src/other/enums.ts:1](https://github.com/gatitolabs/kane-dbtypes/blob/73714e6/src/other/enums.ts#L1)
 
 ___
 
@@ -51,7 +51,7 @@ ___
 
 #### Defined in
 
-[src/other/enums.ts:3](https://github.com/gatitolabs/kane-dbtypes/blob/0866c8c/src/other/enums.ts#L3)
+[src/other/enums.ts:3](https://github.com/gatitolabs/kane-dbtypes/blob/73714e6/src/other/enums.ts#L3)
 
 ___
 
@@ -61,7 +61,7 @@ ___
 
 #### Defined in
 
-[src/driver/index.ts:27](https://github.com/gatitolabs/kane-dbtypes/blob/0866c8c/src/driver/index.ts#L27)
+[src/driver/index.ts:27](https://github.com/gatitolabs/kane-dbtypes/blob/73714e6/src/driver/index.ts#L27)
 
 ___
 
@@ -71,7 +71,7 @@ ___
 
 #### Defined in
 
-[src/other/enums.ts:5](https://github.com/gatitolabs/kane-dbtypes/blob/0866c8c/src/other/enums.ts#L5)
+[src/other/enums.ts:5](https://github.com/gatitolabs/kane-dbtypes/blob/73714e6/src/other/enums.ts#L5)
 
 ___
 
@@ -81,4 +81,4 @@ ___
 
 #### Defined in
 
-[src/other/enums.ts:7](https://github.com/gatitolabs/kane-dbtypes/blob/0866c8c/src/other/enums.ts#L7)
+[src/other/enums.ts:7](https://github.com/gatitolabs/kane-dbtypes/blob/73714e6/src/other/enums.ts#L7)

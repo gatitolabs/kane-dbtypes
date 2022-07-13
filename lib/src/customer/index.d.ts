@@ -15,6 +15,7 @@ export interface Customer {
     status: UserStatus;
     currentTripId: string;
     ratingAvg: number;
+    amountOfRatings: number;
 }
 /**
  * Lugares favoritos de las usuarias. Id autogenerado

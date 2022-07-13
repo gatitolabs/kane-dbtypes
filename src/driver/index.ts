@@ -12,6 +12,7 @@ export interface Driver {
   photoUrl: string;
   ratingAvg: number;
   plate: string;
+  amountOfRatings: number;
 }
 
 /**
@@ -31,7 +32,8 @@ export type DriverAccountStatus =
   | 'expiredDocs'
   | 'denied'
   | 'onCustomerPickup'
-  | 'onTrip';
+  | 'onTrip'
+  | 'onCustomerReview';
 
 /**
  * Status de la usuaria taxista

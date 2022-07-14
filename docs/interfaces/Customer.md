@@ -28,7 +28,7 @@ id generado por el modulo de Autenticacion de Firebase
 
 #### Defined in
 
-[src/customer/index.ts:19](https://github.com/gatitolabs/kane-dbtypes/blob/15bed6d/src/customer/index.ts#L19)
+[src/customer/index.ts:19](https://github.com/gatitolabs/kane-dbtypes/blob/396de51/src/customer/index.ts#L19)
 
 ___
 
@@ -38,7 +38,7 @@ ___
 
 #### Defined in
 
-[src/customer/index.ts:17](https://github.com/gatitolabs/kane-dbtypes/blob/15bed6d/src/customer/index.ts#L17)
+[src/customer/index.ts:17](https://github.com/gatitolabs/kane-dbtypes/blob/396de51/src/customer/index.ts#L17)
 
 ___
 
@@ -48,7 +48,7 @@ ___
 
 #### Defined in
 
-[src/customer/index.ts:11](https://github.com/gatitolabs/kane-dbtypes/blob/15bed6d/src/customer/index.ts#L11)
+[src/customer/index.ts:11](https://github.com/gatitolabs/kane-dbtypes/blob/396de51/src/customer/index.ts#L11)
 
 ___
 
@@ -58,7 +58,7 @@ ___
 
 #### Defined in
 
-[src/customer/index.ts:8](https://github.com/gatitolabs/kane-dbtypes/blob/15bed6d/src/customer/index.ts#L8)
+[src/customer/index.ts:8](https://github.com/gatitolabs/kane-dbtypes/blob/396de51/src/customer/index.ts#L8)
 
 ___
 
@@ -68,7 +68,7 @@ ___
 
 #### Defined in
 
-[src/customer/index.ts:9](https://github.com/gatitolabs/kane-dbtypes/blob/15bed6d/src/customer/index.ts#L9)
+[src/customer/index.ts:9](https://github.com/gatitolabs/kane-dbtypes/blob/396de51/src/customer/index.ts#L9)
 
 ___
 
@@ -80,7 +80,7 @@ ___
 
 #### Defined in
 
-[src/customer/index.ts:13](https://github.com/gatitolabs/kane-dbtypes/blob/15bed6d/src/customer/index.ts#L13)
+[src/customer/index.ts:13](https://github.com/gatitolabs/kane-dbtypes/blob/396de51/src/customer/index.ts#L13)
 
 ___
 
@@ -90,7 +90,7 @@ ___
 
 #### Defined in
 
-[src/customer/index.ts:10](https://github.com/gatitolabs/kane-dbtypes/blob/15bed6d/src/customer/index.ts#L10)
+[src/customer/index.ts:10](https://github.com/gatitolabs/kane-dbtypes/blob/396de51/src/customer/index.ts#L10)
 
 ___
 
@@ -100,7 +100,7 @@ ___
 
 #### Defined in
 
-[src/customer/index.ts:14](https://github.com/gatitolabs/kane-dbtypes/blob/15bed6d/src/customer/index.ts#L14)
+[src/customer/index.ts:14](https://github.com/gatitolabs/kane-dbtypes/blob/396de51/src/customer/index.ts#L14)
 
 ___
 
@@ -110,7 +110,7 @@ ___
 
 #### Defined in
 
-[src/customer/index.ts:18](https://github.com/gatitolabs/kane-dbtypes/blob/15bed6d/src/customer/index.ts#L18)
+[src/customer/index.ts:18](https://github.com/gatitolabs/kane-dbtypes/blob/396de51/src/customer/index.ts#L18)
 
 ___
 
@@ -122,4 +122,4 @@ ___
 
 #### Defined in
 
-[src/customer/index.ts:16](https://github.com/gatitolabs/kane-dbtypes/blob/15bed6d/src/customer/index.ts#L16)
+[src/customer/index.ts:16](https://github.com/gatitolabs/kane-dbtypes/blob/396de51/src/customer/index.ts#L16)

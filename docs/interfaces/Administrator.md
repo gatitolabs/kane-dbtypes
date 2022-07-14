@@ -20,7 +20,7 @@ Representa un usuario administrador del sistema (la controladora)
 
 #### Defined in
 
-[src/admin/index.ts:7](https://github.com/gatitolabs/kane-dbtypes/blob/15bed6d/src/admin/index.ts#L7)
+[src/admin/index.ts:7](https://github.com/gatitolabs/kane-dbtypes/blob/396de51/src/admin/index.ts#L7)
 
 ___
 
@@ -30,7 +30,7 @@ ___
 
 #### Defined in
 
-[src/admin/index.ts:8](https://github.com/gatitolabs/kane-dbtypes/blob/15bed6d/src/admin/index.ts#L8)
+[src/admin/index.ts:8](https://github.com/gatitolabs/kane-dbtypes/blob/396de51/src/admin/index.ts#L8)
 
 ___
 
@@ -40,4 +40,4 @@ ___
 
 #### Defined in
 
-[src/admin/index.ts:9](https://github.com/gatitolabs/kane-dbtypes/blob/15bed6d/src/admin/index.ts#L9)
+[src/admin/index.ts:9](https://github.com/gatitolabs/kane-dbtypes/blob/396de51/src/admin/index.ts#L9)

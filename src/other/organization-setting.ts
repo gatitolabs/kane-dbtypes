@@ -6,5 +6,5 @@ export interface OrganizationSetting {
   phone: string;
   cost1stkm: number;
   cost2ndkm: number;
-  minRadiusDistance: number;
+  maxDistanceRadius: number;
 }

@@ -23,7 +23,7 @@ Document Id del [Customer](Customer.md) a quien pertenece este lugar favorito
 
 #### Defined in
 
-[src/customer/index.ts:26](https://github.com/gatitolabs/kane-dbtypes/blob/73714e6/src/customer/index.ts#L26)
+[src/customer/index.ts:27](https://github.com/gatitolabs/kane-dbtypes/blob/396de51/src/customer/index.ts#L27)
 
 ___
 
@@ -33,7 +33,7 @@ ___
 
 #### Defined in
 
-[src/customer/index.ts:29](https://github.com/gatitolabs/kane-dbtypes/blob/73714e6/src/customer/index.ts#L29)
+[src/customer/index.ts:30](https://github.com/gatitolabs/kane-dbtypes/blob/396de51/src/customer/index.ts#L30)
 
 ___
 
@@ -43,7 +43,7 @@ ___
 
 #### Defined in
 
-[src/customer/index.ts:28](https://github.com/gatitolabs/kane-dbtypes/blob/73714e6/src/customer/index.ts#L28)
+[src/customer/index.ts:29](https://github.com/gatitolabs/kane-dbtypes/blob/396de51/src/customer/index.ts#L29)
 
 ___
 
@@ -53,4 +53,4 @@ ___
 
 #### Defined in
 
-[src/customer/index.ts:27](https://github.com/gatitolabs/kane-dbtypes/blob/73714e6/src/customer/index.ts#L27)
+[src/customer/index.ts:28](https://github.com/gatitolabs/kane-dbtypes/blob/396de51/src/customer/index.ts#L28)

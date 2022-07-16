@@ -11,6 +11,7 @@ export interface Driver {
     photoUrl: string;
     ratingAvg: number;
     plate: string;
+    amountOfRatings: number;
 }
 /**
  * Interfaz para obtener la última localización por GPS de la taxista
@@ -21,7 +22,7 @@ export interface DriverLocation {
     latitude: number;
     updated: number;
 }
-export declare type DriverAccountStatus = 'pending' | 'available' | 'unavailable' | 'expiredDocs' | 'denied' | 'onCustomerPickup' | 'onTrip';
+export declare type DriverAccountStatus = 'pending' | 'available' | 'unavailable' | 'expiredDocs' | 'denied' | 'onCustomerPickup' | 'onTrip' | 'onCustomerReview';
 /**
  * Status de la usuaria taxista
  */

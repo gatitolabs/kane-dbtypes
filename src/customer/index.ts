@@ -16,6 +16,7 @@ export interface Customer {
   status: UserStatus;
   currentTripId: string;
   ratingAvg: number;
+  amountOfRatings: number;
 }
 
 /**

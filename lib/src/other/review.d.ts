@@ -12,4 +12,5 @@ export interface Review {
     rating: number;
     /** {@link AuthorType} */
     reviewAuthor: AuthorType;
+    score: number;
 }

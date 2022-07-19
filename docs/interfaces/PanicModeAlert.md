@@ -24,7 +24,7 @@ Alertas de Modo Panico activado
 
 #### Defined in
 
-[src/admin/index.ts:33](https://github.com/gatitolabs/kane-dbtypes/blob/396de51/src/admin/index.ts#L33)
+[src/admin/index.ts:33](https://github.com/gatitolabs/kane-dbtypes/blob/1098664/src/admin/index.ts#L33)
 
 ___
 
@@ -34,7 +34,7 @@ ___
 
 #### Defined in
 
-[src/admin/index.ts:29](https://github.com/gatitolabs/kane-dbtypes/blob/396de51/src/admin/index.ts#L29)
+[src/admin/index.ts:29](https://github.com/gatitolabs/kane-dbtypes/blob/1098664/src/admin/index.ts#L29)
 
 ___
 
@@ -44,7 +44,7 @@ ___
 
 #### Defined in
 
-[src/admin/index.ts:30](https://github.com/gatitolabs/kane-dbtypes/blob/396de51/src/admin/index.ts#L30)
+[src/admin/index.ts:30](https://github.com/gatitolabs/kane-dbtypes/blob/1098664/src/admin/index.ts#L30)
 
 ___
 
@@ -54,7 +54,7 @@ ___
 
 #### Defined in
 
-[src/admin/index.ts:35](https://github.com/gatitolabs/kane-dbtypes/blob/396de51/src/admin/index.ts#L35)
+[src/admin/index.ts:35](https://github.com/gatitolabs/kane-dbtypes/blob/1098664/src/admin/index.ts#L35)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[src/admin/index.ts:34](https://github.com/gatitolabs/kane-dbtypes/blob/396de51/src/admin/index.ts#L34)
+[src/admin/index.ts:34](https://github.com/gatitolabs/kane-dbtypes/blob/1098664/src/admin/index.ts#L34)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[src/admin/index.ts:28](https://github.com/gatitolabs/kane-dbtypes/blob/396de51/src/admin/index.ts#L28)
+[src/admin/index.ts:28](https://github.com/gatitolabs/kane-dbtypes/blob/1098664/src/admin/index.ts#L28)
 
 ___
 
@@ -86,4 +86,4 @@ ___
 
 #### Defined in
 
-[src/admin/index.ts:32](https://github.com/gatitolabs/kane-dbtypes/blob/396de51/src/admin/index.ts#L32)
+[src/admin/index.ts:32](https://github.com/gatitolabs/kane-dbtypes/blob/1098664/src/admin/index.ts#L32)

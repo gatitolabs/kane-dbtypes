@@ -22,7 +22,7 @@ Opciones de configuracion del sistema
 
 #### Defined in
 
-[src/other/organization-setting.ts:7](https://github.com/gatitolabs/kane-dbtypes/blob/1098664/src/other/organization-setting.ts#L7)
+[src/other/organization-setting.ts:7](https://github.com/gatitolabs/kane-dbtypes/blob/396de51/src/other/organization-setting.ts#L7)
 
 ___
 
@@ -32,7 +32,7 @@ ___
 
 #### Defined in
 
-[src/other/organization-setting.ts:8](https://github.com/gatitolabs/kane-dbtypes/blob/1098664/src/other/organization-setting.ts#L8)
+[src/other/organization-setting.ts:8](https://github.com/gatitolabs/kane-dbtypes/blob/396de51/src/other/organization-setting.ts#L8)
 
 ___
 
@@ -42,7 +42,7 @@ ___
 
 #### Defined in
 
-[src/other/organization-setting.ts:9](https://github.com/gatitolabs/kane-dbtypes/blob/1098664/src/other/organization-setting.ts#L9)
+[src/other/organization-setting.ts:9](https://github.com/gatitolabs/kane-dbtypes/blob/396de51/src/other/organization-setting.ts#L9)
 
 ___
 
@@ -52,7 +52,7 @@ ___
 
 #### Defined in
 
-[src/other/organization-setting.ts:5](https://github.com/gatitolabs/kane-dbtypes/blob/1098664/src/other/organization-setting.ts#L5)
+[src/other/organization-setting.ts:5](https://github.com/gatitolabs/kane-dbtypes/blob/396de51/src/other/organization-setting.ts#L5)
 
 ___
 
@@ -62,4 +62,4 @@ ___
 
 #### Defined in
 
-[src/other/organization-setting.ts:6](https://github.com/gatitolabs/kane-dbtypes/blob/1098664/src/other/organization-setting.ts#L6)
+[src/other/organization-setting.ts:6](https://github.com/gatitolabs/kane-dbtypes/blob/396de51/src/other/organization-setting.ts#L6)

@@ -29,7 +29,7 @@ Document Id del [Customer](Customer.md)
 
 #### Defined in
 
-[src/trip/index.ts:22](https://github.com/gatitolabs/kane-dbtypes/blob/396de51/src/trip/index.ts#L22)
+[src/trip/index.ts:22](https://github.com/gatitolabs/kane-dbtypes/blob/b301f64/src/trip/index.ts#L22)
 
 ___
 
@@ -39,7 +39,7 @@ ___
 
 #### Defined in
 
-[src/trip/index.ts:30](https://github.com/gatitolabs/kane-dbtypes/blob/396de51/src/trip/index.ts#L30)
+[src/trip/index.ts:30](https://github.com/gatitolabs/kane-dbtypes/blob/b301f64/src/trip/index.ts#L30)
 
 ___
 
@@ -49,7 +49,7 @@ ___
 
 #### Defined in
 
-[src/trip/index.ts:31](https://github.com/gatitolabs/kane-dbtypes/blob/396de51/src/trip/index.ts#L31)
+[src/trip/index.ts:31](https://github.com/gatitolabs/kane-dbtypes/blob/b301f64/src/trip/index.ts#L31)
 
 ___
 
@@ -61,7 +61,7 @@ Document Id del [Driver](Driver.md)
 
 #### Defined in
 
-[src/trip/index.ts:24](https://github.com/gatitolabs/kane-dbtypes/blob/396de51/src/trip/index.ts#L24)
+[src/trip/index.ts:24](https://github.com/gatitolabs/kane-dbtypes/blob/b301f64/src/trip/index.ts#L24)
 
 ___
 
@@ -73,7 +73,7 @@ ___
 
 #### Defined in
 
-[src/trip/index.ts:26](https://github.com/gatitolabs/kane-dbtypes/blob/396de51/src/trip/index.ts#L26)
+[src/trip/index.ts:26](https://github.com/gatitolabs/kane-dbtypes/blob/b301f64/src/trip/index.ts#L26)
 
 ___
 
@@ -83,7 +83,7 @@ ___
 
 #### Defined in
 
-[src/trip/index.ts:34](https://github.com/gatitolabs/kane-dbtypes/blob/396de51/src/trip/index.ts#L34)
+[src/trip/index.ts:34](https://github.com/gatitolabs/kane-dbtypes/blob/b301f64/src/trip/index.ts#L34)
 
 ___
 
@@ -95,7 +95,7 @@ ___
 
 #### Defined in
 
-[src/trip/index.ts:33](https://github.com/gatitolabs/kane-dbtypes/blob/396de51/src/trip/index.ts#L33)
+[src/trip/index.ts:33](https://github.com/gatitolabs/kane-dbtypes/blob/b301f64/src/trip/index.ts#L33)
 
 ___
 
@@ -105,7 +105,7 @@ ___
 
 #### Defined in
 
-[src/trip/index.ts:29](https://github.com/gatitolabs/kane-dbtypes/blob/396de51/src/trip/index.ts#L29)
+[src/trip/index.ts:29](https://github.com/gatitolabs/kane-dbtypes/blob/b301f64/src/trip/index.ts#L29)
 
 ___
 
@@ -117,7 +117,7 @@ ___
 
 #### Defined in
 
-[src/trip/index.ts:28](https://github.com/gatitolabs/kane-dbtypes/blob/396de51/src/trip/index.ts#L28)
+[src/trip/index.ts:28](https://github.com/gatitolabs/kane-dbtypes/blob/b301f64/src/trip/index.ts#L28)
 
 ___
 
@@ -129,4 +129,4 @@ Id del viaje (4 o 5 digitos, para facilidad para las usuarias)
 
 #### Defined in
 
-[src/trip/index.ts:20](https://github.com/gatitolabs/kane-dbtypes/blob/396de51/src/trip/index.ts#L20)
+[src/trip/index.ts:20](https://github.com/gatitolabs/kane-dbtypes/blob/b301f64/src/trip/index.ts#L20)

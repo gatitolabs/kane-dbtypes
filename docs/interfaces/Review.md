@@ -24,7 +24,7 @@ Review de usuaria a taxista o de taxista a usuaria
 
 #### Defined in
 
-[src/other/review.ts:12](https://github.com/gatitolabs/kane-dbtypes/blob/1098664/src/other/review.ts#L12)
+[src/other/review.ts:12](https://github.com/gatitolabs/kane-dbtypes/blob/ec65802/src/other/review.ts#L12)
 
 ___
 
@@ -36,7 +36,7 @@ Document Id del [Customer](Customer.md) asociado a este review
 
 #### Defined in
 
-[src/other/review.ts:10](https://github.com/gatitolabs/kane-dbtypes/blob/1098664/src/other/review.ts#L10)
+[src/other/review.ts:10](https://github.com/gatitolabs/kane-dbtypes/blob/ec65802/src/other/review.ts#L10)
 
 ___
 
@@ -48,7 +48,7 @@ Document Id del [Driver](Driver.md) asociado a este review
 
 #### Defined in
 
-[src/other/review.ts:8](https://github.com/gatitolabs/kane-dbtypes/blob/1098664/src/other/review.ts#L8)
+[src/other/review.ts:8](https://github.com/gatitolabs/kane-dbtypes/blob/ec65802/src/other/review.ts#L8)
 
 ___
 
@@ -58,7 +58,7 @@ ___
 
 #### Defined in
 
-[src/other/review.ts:13](https://github.com/gatitolabs/kane-dbtypes/blob/1098664/src/other/review.ts#L13)
+[src/other/review.ts:13](https://github.com/gatitolabs/kane-dbtypes/blob/ec65802/src/other/review.ts#L13)
 
 ___
 
@@ -70,7 +70,7 @@ ___
 
 #### Defined in
 
-[src/other/review.ts:15](https://github.com/gatitolabs/kane-dbtypes/blob/1098664/src/other/review.ts#L15)
+[src/other/review.ts:15](https://github.com/gatitolabs/kane-dbtypes/blob/ec65802/src/other/review.ts#L15)
 
 ___
 
@@ -80,7 +80,7 @@ ___
 
 #### Defined in
 
-[src/other/review.ts:16](https://github.com/gatitolabs/kane-dbtypes/blob/1098664/src/other/review.ts#L16)
+[src/other/review.ts:16](https://github.com/gatitolabs/kane-dbtypes/blob/ec65802/src/other/review.ts#L16)
 
 ___
 
@@ -90,4 +90,4 @@ ___
 
 #### Defined in
 
-[src/other/review.ts:11](https://github.com/gatitolabs/kane-dbtypes/blob/1098664/src/other/review.ts#L11)
+[src/other/review.ts:11](https://github.com/gatitolabs/kane-dbtypes/blob/ec65802/src/other/review.ts#L11)

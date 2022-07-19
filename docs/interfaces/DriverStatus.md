@@ -24,7 +24,7 @@ Status de la usuaria taxista
 
 #### Defined in
 
-[src/driver/index.ts:43](https://github.com/gatitolabs/kane-dbtypes/blob/b301f64/src/driver/index.ts#L43)
+[src/driver/index.ts:43](https://github.com/gatitolabs/kane-dbtypes/blob/ec65802/src/driver/index.ts#L43)
 
 ___
 
@@ -34,7 +34,7 @@ ___
 
 #### Defined in
 
-[src/driver/index.ts:48](https://github.com/gatitolabs/kane-dbtypes/blob/b301f64/src/driver/index.ts#L48)
+[src/driver/index.ts:48](https://github.com/gatitolabs/kane-dbtypes/blob/ec65802/src/driver/index.ts#L48)
 
 ___
 
@@ -44,7 +44,7 @@ ___
 
 #### Defined in
 
-[src/driver/index.ts:47](https://github.com/gatitolabs/kane-dbtypes/blob/b301f64/src/driver/index.ts#L47)
+[src/driver/index.ts:47](https://github.com/gatitolabs/kane-dbtypes/blob/ec65802/src/driver/index.ts#L47)
 
 ___
 
@@ -56,7 +56,7 @@ ___
 
 #### Defined in
 
-[src/driver/index.ts:46](https://github.com/gatitolabs/kane-dbtypes/blob/b301f64/src/driver/index.ts#L46)
+[src/driver/index.ts:46](https://github.com/gatitolabs/kane-dbtypes/blob/ec65802/src/driver/index.ts#L46)
 
 ___
 
@@ -66,7 +66,7 @@ ___
 
 #### Defined in
 
-[src/driver/index.ts:42](https://github.com/gatitolabs/kane-dbtypes/blob/b301f64/src/driver/index.ts#L42)
+[src/driver/index.ts:42](https://github.com/gatitolabs/kane-dbtypes/blob/ec65802/src/driver/index.ts#L42)
 
 ___
 
@@ -76,7 +76,7 @@ ___
 
 #### Defined in
 
-[src/driver/index.ts:49](https://github.com/gatitolabs/kane-dbtypes/blob/b301f64/src/driver/index.ts#L49)
+[src/driver/index.ts:49](https://github.com/gatitolabs/kane-dbtypes/blob/ec65802/src/driver/index.ts#L49)
 
 ___
 
@@ -86,4 +86,4 @@ ___
 
 #### Defined in
 
-[src/driver/index.ts:44](https://github.com/gatitolabs/kane-dbtypes/blob/b301f64/src/driver/index.ts#L44)
+[src/driver/index.ts:44](https://github.com/gatitolabs/kane-dbtypes/blob/ec65802/src/driver/index.ts#L44)
